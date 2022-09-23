@@ -1,0 +1,26 @@
+.ri {
+color: white;
+    text-align: center;
+}
+
+#img {
+    text-align: center;
+
+
+
+}
+
+#img_caption {
+    font-family: sans-serif;
+    color: white;
+}
+
+.aadil {
+    color: grey;
+    font-style: italic;
+    font-size: small;
+}
+#main{
+    background-color: black;
+    border-color: black;
+}
